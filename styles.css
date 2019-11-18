@@ -6,6 +6,8 @@
 
 body {
     padding: 40px;
+    color: rgb(42, 90, 134);
+    font-family: Lato, "Lucida Grande", Tahoma, Sans-Serif;
 }
 
 blockquote {
